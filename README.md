@@ -6,6 +6,6 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the course curriculum on the Next.js Website.
 
-## https://t.me/danielestol
-## live:.cid.c2ae52648e78f3da
-## dc:elipozs
+** https://t.me/danielestol **
+** live:.cid.c2ae52648e78f3da **
+** dc:elipozs **
